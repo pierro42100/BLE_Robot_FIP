@@ -1,4 +1,4 @@
-package com.example.android.bluetoothlegatt;
+package bzh.robotfip.ble_robot_fip;
 
 import android.app.Activity;
 import android.content.Intent;

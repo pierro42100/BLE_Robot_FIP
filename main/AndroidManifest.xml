@@ -2,7 +2,7 @@
     package="bzh.robotfip.ble_robot_fip">
 
     <application android:allowBackup="true" android:label="@string/app_name"
-        android:icon="@mipmap/ic_launcher" android:theme="@style/AppTheme">
+        android:icon="@drawable/ic_launcher" android:theme="@style/AppTheme">
 
     </application>
 
